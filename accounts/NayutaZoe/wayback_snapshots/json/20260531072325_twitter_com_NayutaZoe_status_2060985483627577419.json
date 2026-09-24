@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1989931580346012098",
+    "created_at": "2026-05-31T07:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060985483627577419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979314325962788865",
+          "start": 0,
+          "username": "lu2837869073663"
+        },
+        {
+          "end": 33,
+          "id": "1843201902550634496",
+          "start": 17,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060985483627577419",
+    "in_reply_to_user_id": "1979314325962788865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060436580322381918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu2837869073663 @LwrDHYyuxR22499 嘶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1989931580346012098",
+        "created_at": "2026-05-31T07:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060985483627577419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979314325962788865",
+              "start": 0,
+              "username": "lu2837869073663"
+            },
+            {
+              "end": 33,
+              "id": "1843201902550634496",
+              "start": 17,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060985483627577419",
+        "in_reply_to_user_id": "1979314325962788865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060436580322381918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu2837869073663 @LwrDHYyuxR22499 嘶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979314325962788865",
+        "conversation_id": "1989931580346012098",
+        "created_at": "2026-05-29T19:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060436580322381918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 27,
+              "id": "1956526823128563712",
+              "start": 17,
+              "username": "NayutaZoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060436580322381918",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989952190027632955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @NayutaZoe 哥能不能私信我一下 我以前也在英高特待过 我有情况反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 168cm 54kg｜坐标怀化  同类可以来贴贴｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 82,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 242
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T22:31:36.000Z",
+        "description": "杀光死爹螺",
+        "id": "1979314325962788865",
+        "name": "螺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029978730311950336/JRJ7FOcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "lu2837869073663",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5428,
+          "following_count": 3044,
+          "like_count": 3084,
+          "listed_count": 19,
+          "media_count": 434,
+          "tweet_count": 2911
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

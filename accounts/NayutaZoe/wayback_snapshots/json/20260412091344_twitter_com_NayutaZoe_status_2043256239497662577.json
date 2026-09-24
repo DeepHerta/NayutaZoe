@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2043248951550513559",
+    "created_at": "2026-04-12T09:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043256239497662577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043256239497662577",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043248951550513559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 咕咕嘎嘎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043248943812018179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsUFrubgAMfhb-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043248943811993600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsUFrubIAAN5k7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2043248951550513559",
+        "created_at": "2026-04-12T09:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043256239497662577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043256239497662577",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043248951550513559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 咕咕嘎嘎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043248943812018179",
+            "3_2043248943811993600"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2043248951550513559",
+        "created_at": "2026-04-12T08:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043248951550513559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzM6r4xwWP",
+              "end": 27,
+              "expanded_url": "https://x.com/jlxc2001/status/2043248951550513559/photo/1",
+              "media_key": "3_2043248943812018179",
+              "start": 4,
+              "url": "https://t.co/yzM6r4xwWP"
+            },
+            {
+              "display_url": "pic.x.com/yzM6r4xwWP",
+              "end": 27,
+              "expanded_url": "https://x.com/jlxc2001/status/2043248951550513559/photo/1",
+              "media_key": "3_2043248943811993600",
+              "start": 4,
+              "url": "https://t.co/yzM6r4xwWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043248951550513559",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 237,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hi？ https://t.co/yzM6r4xwWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 170cm 52kg｜坐标长沙｜可以线下哦｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 72,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 199
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14407,
+          "following_count": 197,
+          "like_count": 494,
+          "listed_count": 29,
+          "media_count": 879,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

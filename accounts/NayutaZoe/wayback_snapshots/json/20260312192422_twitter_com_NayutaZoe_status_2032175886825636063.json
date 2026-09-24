@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2032175881599533303",
+    "created_at": "2026-03-12T19:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T20:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032175886825636063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032175886825636063",
+    "in_reply_to_user_id": "1956526823128563712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032175883495370889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何以解了？\n曾见江海静，现已欲翩舞。\n曾经的小米来自于各位发烧友的支持与力挺，成就了国内超好用的本地化UI----MIUI。\n春风生绿起，秋晕降日昏。\n自那后，小米逐渐收紧Bootloader解锁政策，后演变为答题，甚至出现了“小米高考”“小米体考”等离谱事迹。现在解锁政策已成白纸，“仅仅是我说了而已呢”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2032175881599533303",
+        "created_at": "2026-03-12T19:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032175886825636063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032175886825636063",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032175883495370889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何以解了？\n曾见江海静，现已欲翩舞。\n曾经的小米来自于各位发烧友的支持与力挺，成就了国内超好用的本地化UI----MIUI。\n春风生绿起，秋晕降日昏。\n自那后，小米逐渐收紧Bootloader解锁政策，后演变为答题，甚至出现了“小米高考”“小米体考”等离谱事迹。现在解锁政策已成白纸，“仅仅是我说了而已呢”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2032175881599533303",
+        "created_at": "2026-03-12T19:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032175883495370889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032175883495370889",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032175881599533303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来小米起来，开始探索前沿，陆续推出mix系列与概念机，并成功上市\n这本应是美好的故事，不过还真应了那句俗语：“屠龙少年终成恶龙”\n小米开始冲击高端，并且逐渐放下对低价手机的关注度\nInnovation for everyone?或者成为下一个被人们唾骂的似生却已死的企业？\n看向红米N10Pro，不禁吱吱，都是轮回嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/16岁/ 音乐制作/数码科技/Oneplus 12 AviumUI Unofficial维护中/作词/喜欢写点小诗歌 最好的姐姐😘😘@NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 70,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 135
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1975861329077699046",
+    "created_at": "2025-10-08T11:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T12:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975882574544388176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1842465685152428032",
+          "start": 0,
+          "username": "lzhy344777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975882574544388176",
+    "in_reply_to_user_id": "1842465685152428032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975861329077699046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lzhy344777 8块钱的充电宝😧，炸了我都夸它响🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1975861329077699046",
+        "created_at": "2025-10-08T11:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975882574544388176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842465685152428032",
+              "start": 0,
+              "username": "lzhy344777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975882574544388176",
+        "in_reply_to_user_id": "1842465685152428032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975861329077699046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lzhy344777 8块钱的充电宝😧，炸了我都夸它响🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842465685152428032",
+        "conversation_id": "1975861329077699046",
+        "created_at": "2025-10-08T09:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T10:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975861329077699046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975861329077699046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "📱小米11pro（200+）\n🎧淘宝7块杂牌蓝牙\n⌚️无\n💻无\n平板：无\n🍥 日雌（300+）\n充电宝：小米10000（8元）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 44,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T07:24:12.000Z",
+        "description": "",
+        "id": "1842465685152428032",
+        "location": "New York, USA",
+        "name": "灵动岛🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973057931412430848/ZQ2usBZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 376,
+          "like_count": 3788,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 289
+        },
+        "username": "lzhy344777",
+        "verified": false
+      }
+    ]
+  }
+}

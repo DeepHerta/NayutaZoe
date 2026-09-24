@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2050484373586403777",
+    "created_at": "2026-05-02T09:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050508652315046104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1900108524304076800",
+          "start": 0,
+          "username": "qi_bu64350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050508652315046104",
+    "in_reply_to_user_id": "1900108524304076800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050484373586403777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi_bu64350 诶，我刚刚在群我刚刚在群里看到一个一样在问的，莫非？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2050484373586403777",
+        "created_at": "2026-05-02T09:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050508652315046104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900108524304076800",
+              "start": 0,
+              "username": "qi_bu64350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050508652315046104",
+        "in_reply_to_user_id": "1900108524304076800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050484373586403777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi_bu64350 诶，我刚刚在群我刚刚在群里看到一个一样在问的，莫非？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900108524304076800",
+        "conversation_id": "2050484373586403777",
+        "created_at": "2026-05-02T07:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050484373586403777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050484373586403777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶对了 日雌能过火车安检吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 168cm 54kg｜坐标长沙，准备去杭州一带  同类可以来贴贴｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 77,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 227
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T08:56:07.000Z",
+        "description": "好累……\n依旧把这当QQ空间用\n一切过激言论均由第二人格控制发布\n前@Ciallo_114_514 @YunoQiu56649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "Ciallo_114_514"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "YunoQiu56649"
+              }
+            ]
+          }
+        },
+        "id": "1900108524304076800",
+        "location": "第五高原",
+        "name": "Ciallo～(∠・ω ≤ )︵★🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2049667185740775911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049695578402304000/1dyUSXys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 517,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 496
+        },
+        "username": "qi_bu64350",
+        "verified": false
+      }
+    ]
+  }
+}

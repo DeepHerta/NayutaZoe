@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2050465270163255296",
+        "3_2050465287192092672",
+        "3_2050465286978191360",
+        "3_2050465285308841984"
+      ]
+    },
+    "author_id": "1956526823128563712",
+    "conversation_id": "2050465306062258587",
+    "created_at": "2026-05-02T06:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050465306062258587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XMDec0dT6i",
+          "end": 27,
+          "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+          "media_key": "7_2050465270163255296",
+          "start": 4,
+          "url": "https://t.co/XMDec0dT6i"
+        },
+        {
+          "display_url": "pic.x.com/XMDec0dT6i",
+          "end": 27,
+          "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+          "media_key": "3_2050465287192092672",
+          "start": 4,
+          "url": "https://t.co/XMDec0dT6i"
+        },
+        {
+          "display_url": "pic.x.com/XMDec0dT6i",
+          "end": 27,
+          "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+          "media_key": "3_2050465286978191360",
+          "start": 4,
+          "url": "https://t.co/XMDec0dT6i"
+        },
+        {
+          "display_url": "pic.x.com/XMDec0dT6i",
+          "end": 27,
+          "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+          "media_key": "3_2050465285308841984",
+          "start": 4,
+          "url": "https://t.co/XMDec0dT6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050465306062258587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿嘿嘿 https://t.co/XMDec0dT6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4674,
+        "height": 720,
+        "media_key": "7_2050465270163255296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050465270163255296/pu/img/w9pKdokM45sLB1pe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050465270163255296/pu/vid/avc1/480x270/sw_Fafx7ULiUv8bO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050465270163255296/pu/vid/avc1/640x360/MV8nPJ-qdYmF2pPj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050465270163255296/pu/vid/avc1/1280x720/iDpw8e-LzPV4x0rL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050465270163255296/pu/pl/XQGaqxoLTHZSJdy6.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050465287192092672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS3UJtaoAAXwSa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050465286978191360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS3UI6awAA9eLr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050465285308841984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS3UCsagAACG29.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050465270163255296",
+            "3_2050465287192092672",
+            "3_2050465286978191360",
+            "3_2050465285308841984"
+          ]
+        },
+        "author_id": "1956526823128563712",
+        "conversation_id": "2050465306062258587",
+        "created_at": "2026-05-02T06:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050465306062258587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMDec0dT6i",
+              "end": 27,
+              "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+              "media_key": "7_2050465270163255296",
+              "start": 4,
+              "url": "https://t.co/XMDec0dT6i"
+            },
+            {
+              "display_url": "pic.x.com/XMDec0dT6i",
+              "end": 27,
+              "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+              "media_key": "3_2050465287192092672",
+              "start": 4,
+              "url": "https://t.co/XMDec0dT6i"
+            },
+            {
+              "display_url": "pic.x.com/XMDec0dT6i",
+              "end": 27,
+              "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+              "media_key": "3_2050465286978191360",
+              "start": 4,
+              "url": "https://t.co/XMDec0dT6i"
+            },
+            {
+              "display_url": "pic.x.com/XMDec0dT6i",
+              "end": 27,
+              "expanded_url": "https://x.com/NayutaZoe/status/2050465306062258587/video/1",
+              "media_key": "3_2050465285308841984",
+              "start": 4,
+              "url": "https://t.co/XMDec0dT6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050465306062258587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿嘿 https://t.co/XMDec0dT6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 168cm 54kg｜坐标长沙，准备去杭州一带  同类可以来贴贴｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 77,
+          "like_count": 386,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 225
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

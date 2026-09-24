@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1968593337629266123",
+    "created_at": "2025-09-18T17:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T18:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968726570874306968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776642174287060992",
+          "start": 0,
+          "username": "YuzuruAkishiro"
+        },
+        {
+          "end": 31,
+          "id": "1260553941714186241",
+          "start": 16,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968726570874306968",
+    "in_reply_to_user_id": "1776642174287060992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968627251416801385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuzuruAkishiro @whyyoutouzhele 看不懂，好多地方感觉莫名其妙的，无厘头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1968593337629266123",
+        "created_at": "2025-09-18T17:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T18:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968726570874306968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776642174287060992",
+              "start": 0,
+              "username": "YuzuruAkishiro"
+            },
+            {
+              "end": 31,
+              "id": "1260553941714186241",
+              "start": 16,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968726570874306968",
+        "in_reply_to_user_id": "1776642174287060992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968627251416801385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuzuruAkishiro @whyyoutouzhele 看不懂，好多地方感觉莫名其妙的，无厘头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776642174287060992",
+        "conversation_id": "1968593337629266123",
+        "created_at": "2025-09-18T10:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968627251416801385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968627251416801385",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5761,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968593337629266123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 有人去看了没，到底怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "MTF/易性症(青春阻斷)/15歲\n喜歡音樂和數碼科技/不澀澀\n抑鬱強迫/會莫名其妙發癲",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayuta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 36,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T16:04:48.000Z",
+        "description": "Each of us can be friends on this platform. I respect dissents, but I will also refute rude remarks. メール→re622blossom@outlook.com",
+        "id": "1776642174287060992",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Akishiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946814012827574273/UbIpyxrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 57,
+          "like_count": 2683,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 322
+        },
+        "username": "YuzuruAkishiro",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106302,
+          "following_count": 991,
+          "like_count": 8096,
+          "listed_count": 8349,
+          "media_count": 35033,
+          "tweet_count": 41824
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

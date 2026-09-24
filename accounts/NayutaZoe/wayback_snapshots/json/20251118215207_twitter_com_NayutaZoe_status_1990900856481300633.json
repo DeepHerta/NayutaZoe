@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1990708465514525027",
+    "created_at": "2025-11-18T21:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T22:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990900856481300633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973585079852257280",
+          "start": 0,
+          "username": "TangYuwenMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990900856481300633",
+    "in_reply_to_user_id": "1973585079852257280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990708465514525027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TangYuwenMTF 操死你（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1140,
+        "media_key": "3_1990708457004281860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Bqy18bMAQnrKa.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1990708465514525027",
+        "created_at": "2025-11-18T21:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990900856481300633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973585079852257280",
+              "start": 0,
+              "username": "TangYuwenMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990900856481300633",
+        "in_reply_to_user_id": "1973585079852257280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990708465514525027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TangYuwenMTF 操死你（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990708457004281860"
+          ]
+        },
+        "author_id": "1973585079852257280",
+        "conversation_id": "1990708465514525027",
+        "created_at": "2025-11-18T09:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990708465514525027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2YGumr3NB",
+              "end": 34,
+              "expanded_url": "https://x.com/TangYuwenMTF/status/1990708465514525027/photo/1",
+              "media_key": "3_1990708457004281860",
+              "start": 11,
+              "url": "https://t.co/S2YGumr3NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990708465514525027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2897,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了 无故被操死两次 https://t.co/S2YGumr3NB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/15岁/\n音乐制作/数码科技/\nOnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 52
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T03:05:40.000Z",
+        "description": "高中休学中 反跨，MTF 对象：@zhishi_cook和@wowo_yz MTF hrt started : 2025.6.30 轻度抑郁 中度焦虑 抽象多边 mtf，1，S",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 37,
+                "start": 29,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/vfGe2FxZOb"
+              }
+            ]
+          }
+        },
+        "id": "1973585079852257280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1975717214742626772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973594419350872067/7rhyBDCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 137,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/vfGe2FxZOb",
+        "username": "TangYuwenMTF",
+        "verified": true
+      }
+    ]
+  }
+}

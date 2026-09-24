@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "1988908080906764424",
+    "created_at": "2025-11-15T18:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T19:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989763531487809541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490546772669698051",
+          "start": 0,
+          "username": "NikoRurQwQRuaa"
+        },
+        {
+          "end": 31,
+          "id": "218434058",
+          "start": 16,
+          "username": "takaichi_sanae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989763531487809541",
+    "in_reply_to_user_id": "1490546772669698051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989403894007714246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikoRurQwQRuaa @takaichi_sanae 原来是主播发了评论啊，我就说怎么刷到搞事（高市）早苗了呢😂😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1988908080906764424",
+        "created_at": "2025-11-15T18:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T19:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989763531487809541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490546772669698051",
+              "start": 0,
+              "username": "NikoRurQwQRuaa"
+            },
+            {
+              "end": 31,
+              "id": "218434058",
+              "start": 16,
+              "username": "takaichi_sanae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989763531487809541",
+        "in_reply_to_user_id": "1490546772669698051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989403894007714246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikoRurQwQRuaa @takaichi_sanae 原来是主播发了评论啊，我就说怎么刷到搞事（高市）早苗了呢😂😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490546772669698051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "1988908080906764424",
+        "created_at": "2025-11-14T18:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T19:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989403894007714246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "218434058",
+              "start": 0,
+              "username": "takaichi_sanae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989403894007714246",
+        "in_reply_to_user_id": "218434058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988908080906764424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takaichi_sanae 你妈死了\n为什么叫日本自卫队啊，好难猜啊\n是因为喜欢onami吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "那由澪",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 64,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 45
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:43:43.000Z",
+        "description": "🇨🇳16岁/09.1.26，男孩子哦awa（音游人/Minecraft/玩机/刷机/摄影/HyperOS Port ROMer/Xiaomi Device GKI Kernel Developer/b站不知名up主/摆烂/友跨/不建政）",
+        "id": "1490546772669698051",
+        "location": "Nikoの奇妙小窝",
+        "name": "NikoRur_QwQRuaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490547423428890624/8vY2TkQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 156,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 444
+        },
+        "username": "NikoRurQwQRuaa",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNdzy0"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "name": "高市早苗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2277304,
+          "following_count": 1,
+          "like_count": 46,
+          "listed_count": 4926,
+          "media_count": 178,
+          "tweet_count": 1072
+        },
+        "url": "https://t.co/VNedKNdzy0",
+        "username": "takaichi_sanae",
+        "verified": true
+      }
+    ]
+  }
+}

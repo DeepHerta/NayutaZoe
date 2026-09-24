@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2032175881599533303",
+    "created_at": "2026-03-12T19:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T20:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032175918803010012"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032175918803010012",
+    "in_reply_to_user_id": "1956526823128563712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032175915959271509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小米之家有外包的，不属于小米内部的员工，怎么代表企业形象？\n使用店员的权限并把一些没有升级的产品解锁，并私自卖给粉丝。这里的证据在哪？先射箭再画靶子？为了流量、热度或是自以为的正义，脑子不要了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2032175881599533303",
+        "created_at": "2026-03-12T19:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032175918803010012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032175918803010012",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032175915959271509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小米之家有外包的，不属于小米内部的员工，怎么代表企业形象？\n使用店员的权限并把一些没有升级的产品解锁，并私自卖给粉丝。这里的证据在哪？先射箭再画靶子？为了流量、热度或是自以为的正义，脑子不要了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2032175881599533303",
+        "created_at": "2026-03-12T19:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032175915959271509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032175915959271509",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032175912213758152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是，我想问：\n1.作为一位在酷安拥有不小体量的博主，同时还是酷安认证的优质内容创作者。连基本的新闻学三大原则（特点）都不懂嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/16岁/ 音乐制作/数码科技/Oneplus 12 AviumUI Unofficial维护中/作词/喜欢写点小诗歌 最好的姐姐😘😘@NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 70,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 141
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

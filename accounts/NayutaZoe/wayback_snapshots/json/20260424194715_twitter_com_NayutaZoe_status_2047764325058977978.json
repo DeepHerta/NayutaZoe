@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2046525340399566987",
+    "created_at": "2026-04-24T19:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047764325058977978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1818705560969396224",
+          "start": 0,
+          "username": "Your20091226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047764325058977978",
+    "in_reply_to_user_id": "1818705560969396224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046525340399566987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Your20091226 好w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 1080,
+        "media_key": "13_2046525146060767232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046525146060767232/img/AnRhDgr3mamaevwS.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046525146060767232/vid/avc1/480x270/_Za9IG0fBr96CfjR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046525146060767232/vid/avc1/640x360/DJdMF1JV5y3dMGde.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046525146060767232/vid/avc1/1280x720/fEgaNJXNipKtR89p.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046525146060767232/pl/fE5Nn5jVA6bBkBqy.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2046525340399566987",
+        "created_at": "2026-04-24T19:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047764325058977978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1818705560969396224",
+              "start": 0,
+              "username": "Your20091226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047764325058977978",
+        "in_reply_to_user_id": "1818705560969396224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046525340399566987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Your20091226 好w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046525146060767232"
+          ]
+        },
+        "author_id": "1818705560969396224",
+        "conversation_id": "2046525340399566987",
+        "created_at": "2026-04-21T09:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046525340399566987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUJyKf3i3R",
+              "end": 31,
+              "expanded_url": "https://x.com/Your20091226/status/2046525340399566987/video/1",
+              "media_key": "13_2046525146060767232",
+              "start": 8,
+              "url": "https://t.co/tUJyKf3i3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046525340399566987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男の娘は正しい https://t.co/tUJyKf3i3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 170cm 54kg｜坐标长沙，准备去杭州一带  同类可以来贴贴｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 76,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 218
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T17:49:48.000Z",
+        "description": "含糖｜已出柜｜坐标浙江绍兴｜16岁｜HRT2025.6.23｜可以叫我ゆう こらく或幽小乐｜172cm｜50kg｜家里蹲｜好姐姐@qqnjjwb｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 64,
+                "username": "qqnjjwb"
+              }
+            ]
+          }
+        },
+        "id": "1818705560969396224",
+        "name": "ゆう こらく",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046305298894524416/_7Ta6nz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 342,
+          "like_count": 190,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 158
+        },
+        "username": "Your20091226",
+        "verified": false
+      }
+    ]
+  }
+}

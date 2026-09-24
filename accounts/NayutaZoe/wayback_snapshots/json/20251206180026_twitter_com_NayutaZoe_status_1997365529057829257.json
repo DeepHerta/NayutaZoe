@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1996912142050906127",
+    "created_at": "2025-12-06T18:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997365529057829257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490546772669698051",
+          "start": 0,
+          "username": "NikoRurQwQRuaa"
+        },
+        {
+          "end": 31,
+          "id": "1810873766119100416",
+          "start": 16,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997365529057829257",
+    "in_reply_to_user_id": "1490546772669698051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997259449594196010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikoRurQwQRuaa @RainEngine2024 原来如此（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1996912142050906127",
+        "created_at": "2025-12-06T18:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997365529057829257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490546772669698051",
+              "start": 0,
+              "username": "NikoRurQwQRuaa"
+            },
+            {
+              "end": 31,
+              "id": "1810873766119100416",
+              "start": 16,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997365529057829257",
+        "in_reply_to_user_id": "1490546772669698051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997259449594196010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikoRurQwQRuaa @RainEngine2024 原来如此（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490546772669698051",
+        "conversation_id": "1996912142050906127",
+        "created_at": "2025-12-06T10:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997259449594196010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997259449594196010",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996912142050906127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 兄弟不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/16岁/ 音乐制作/数码科技/ OnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 69,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 74
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:43:43.000Z",
+        "description": "🇨🇳16岁/09.1.26，男孩子哦awa（音游人/Minecraft/玩机/刷机/摄影/HyperOS Port ROMer/Xiaomi Device GKI Kernel Developer/b站不知名up主/摆烂/友跨/不建政）",
+        "id": "1490546772669698051",
+        "location": "Nikoの奇妙小窝",
+        "name": "NikoRur_QwQRuaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490547423428890624/8vY2TkQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 158,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 461
+        },
+        "username": "NikoRurQwQRuaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/互联网小透明/非二元（MtX/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/GMT+8/ZH-CN/EN-US is OK",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1975731324443836803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995431022842806272/qX_4U75S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3667,
+          "following_count": 626,
+          "like_count": 33219,
+          "listed_count": 4,
+          "media_count": 752,
+          "tweet_count": 4986
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

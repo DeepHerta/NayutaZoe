@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1989957599438184931",
+    "created_at": "2025-11-18T21:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T22:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990900357069693406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490546772669698051",
+          "start": 0,
+          "username": "NikoRurQwQRuaa"
+        },
+        {
+          "end": 30,
+          "id": "1821089011727003649",
+          "start": 16,
+          "username": "arrco_justin2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990900357069693406",
+    "in_reply_to_user_id": "1490546772669698051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990815851692306625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikoRurQwQRuaa @arrco_justin2 你也是噢🤓👌🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1989957599438184931",
+        "created_at": "2025-11-18T21:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T22:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990900357069693406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490546772669698051",
+              "start": 0,
+              "username": "NikoRurQwQRuaa"
+            },
+            {
+              "end": 30,
+              "id": "1821089011727003649",
+              "start": 16,
+              "username": "arrco_justin2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990900357069693406",
+        "in_reply_to_user_id": "1490546772669698051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990815851692306625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikoRurQwQRuaa @arrco_justin2 你也是噢🤓👌🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490546772669698051",
+        "conversation_id": "1989957599438184931",
+        "created_at": "2025-11-18T16:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990815851692306625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990815851692306625",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989957599438184931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 早晚的事🤓👌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/15岁/\n音乐制作/数码科技/\nOnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 51
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:43:43.000Z",
+        "description": "🇨🇳16岁/09.1.26，男孩子哦awa（音游人/Minecraft/玩机/刷机/摄影/HyperOS Port ROMer/Xiaomi Device GKI Kernel Developer/b站不知名up主/摆烂/友跨/不建政）",
+        "id": "1490546772669698051",
+        "location": "Nikoの奇妙小窝",
+        "name": "NikoRur_QwQRuaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490547423428890624/8vY2TkQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 156,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 449
+        },
+        "username": "NikoRurQwQRuaa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "亻尔女子！我是JUSTIN！\n一个13岁的小屁孩！(25.10.20)\n不会翻车！！！！！！！！！！！！\n喜欢搞银行卡，C++和Python之类奇奇怪怪的爱好，前端一窍不通喵\n欢迎互FO喵!\n 添加一些好东西:@ARRCO_JUSTIN @sanyunhuan\nemail:argcxkoff13hn@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "ARRCO_JUSTIN"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "sanyunhuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arrco.wuaze.com",
+                "end": 23,
+                "expanded_url": "https://arrco.wuaze.com",
+                "start": 0,
+                "url": "https://t.co/HdWVMTf3oj"
+              }
+            ]
+          }
+        },
+        "id": "1821089011727003649",
+        "location": "请先授权「X」定位权限",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984409058250784768/m45mrnPU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 919,
+          "like_count": 12879,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2092
+        },
+        "url": "https://t.co/HdWVMTf3oj",
+        "username": "arrco_justin2",
+        "verified": false
+      }
+    ]
+  }
+}

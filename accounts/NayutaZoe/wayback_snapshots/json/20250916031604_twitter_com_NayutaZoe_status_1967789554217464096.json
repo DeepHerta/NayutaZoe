@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967789551088476160"
+      ]
+    },
+    "author_id": "1956526823128563712",
+    "conversation_id": "1967419410211324086",
+    "created_at": "2025-09-16T03:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967789554217464096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661260055914876928",
+          "start": 0,
+          "username": "Kiss_light233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B8q7JWuT9l",
+          "end": 42,
+          "expanded_url": "https://x.com/NayutaZoe/status/1967789554217464096/photo/1",
+          "media_key": "3_1967789551088476160",
+          "start": 19,
+          "url": "https://t.co/B8q7JWuT9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967789554217464096",
+    "in_reply_to_user_id": "1661260055914876928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967419410211324086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_light233 关注了 https://t.co/B8q7JWuT9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1967789551088476160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07-K8FaoAA9S44.jpg",
+        "width": 886
+      },
+      {
+        "height": 584,
+        "media_key": "3_1967419406839152640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02thtTbgAAOVzj.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967789551088476160"
+          ]
+        },
+        "author_id": "1956526823128563712",
+        "conversation_id": "1967419410211324086",
+        "created_at": "2025-09-16T03:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967789554217464096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661260055914876928",
+              "start": 0,
+              "username": "Kiss_light233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8q7JWuT9l",
+              "end": 42,
+              "expanded_url": "https://x.com/NayutaZoe/status/1967789554217464096/photo/1",
+              "media_key": "3_1967789551088476160",
+              "start": 19,
+              "url": "https://t.co/B8q7JWuT9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967789554217464096",
+        "in_reply_to_user_id": "1661260055914876928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967419410211324086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_light233 关注了 https://t.co/B8q7JWuT9l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967419406839152640"
+          ]
+        },
+        "author_id": "1661260055914876928",
+        "conversation_id": "1967419410211324086",
+        "created_at": "2025-09-15T02:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967419410211324086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ol3MtmkM4V",
+              "end": 55,
+              "expanded_url": "https://x.com/Kiss_light233/status/1967419410211324086/photo/1",
+              "media_key": "3_1967419406839152640",
+              "start": 32,
+              "url": "https://t.co/Ol3MtmkM4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967419410211324086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 38385,
+          "like_count": 533,
+          "quote_count": 2,
+          "reply_count": 92,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "内....内个..我..我很可爱！..请..请关注我！！≥﹏≤ https://t.co/Ol3MtmkM4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "MTF/易性症(青春阻斷)/15歲\n喜歡音樂和數碼科技/不澀澀\n抑鬱強迫/會莫名其妙發癲",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayuta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 35,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KissLight",
+                "end": 23,
+                "expanded_url": "http://t.me/KissLight",
+                "start": 0,
+                "url": "https://t.co/YQ1vFfAL7l"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "Light🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1646,
+          "following_count": 350,
+          "like_count": 4686,
+          "listed_count": 3,
+          "media_count": 318,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/YQ1vFfAL7l",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

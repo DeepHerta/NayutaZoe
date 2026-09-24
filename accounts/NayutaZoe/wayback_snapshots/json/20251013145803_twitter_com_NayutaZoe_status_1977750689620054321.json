@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1977351189202149520",
+    "created_at": "2025-10-13T14:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977750689620054321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1037215747225911299",
+          "start": 0,
+          "username": "alucard_907"
+        },
+        {
+          "end": 22,
+          "id": "1601893417549967360",
+          "start": 13,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977750689620054321",
+    "in_reply_to_user_id": "1037215747225911299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977390162687488128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alucard_907 @AcboxLiu 赞同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1977351189202149520",
+        "created_at": "2025-10-13T14:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977750689620054321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1037215747225911299",
+              "start": 0,
+              "username": "alucard_907"
+            },
+            {
+              "end": 22,
+              "id": "1601893417549967360",
+              "start": 13,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977750689620054321",
+        "in_reply_to_user_id": "1037215747225911299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977390162687488128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alucard_907 @AcboxLiu 赞同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1037215747225911299",
+        "conversation_id": "1977351189202149520",
+        "created_at": "2025-10-12T15:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977390162687488128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977390162687488128",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 690,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977351189202149520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 总是开屏看到想继续看的。才刚开始就突然弹走了。然后无论如何搜索也无果。推特搜索也是渣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 45,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-05T05:47:59.000Z",
+        "description": "会写点代码的牌佬，资深act，魂like，麦门，米门。\n略略略-INTJ\n再也不乱fo了，对捂住🙇‍♂️",
+        "id": "1037215747225911299",
+        "location": "Star City",
+        "name": "十一月的嚣张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618878107003539457/yTQ0adA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 207,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1327
+        },
+        "username": "alucard_907",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/💼日常远程工作/🏳️‍⚧️写代码的小女孩/想要成为人类的小阿斯/Building ChalkAI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "深圳·西乡",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "1964617558675611999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959456533550649344/-FieohZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7167,
+          "following_count": 2952,
+          "like_count": 2751,
+          "listed_count": 28,
+          "media_count": 1050,
+          "tweet_count": 5249
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2018656258694521164",
+    "created_at": "2026-02-03T12:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018657275691618735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018657275691618735",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018656258694521164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 这是最后的斗争，\n团结起来到明天，\n英特纳雄耐尔，\n就一定要实现！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38173,
+        "height": 360,
+        "media_key": "7_2018656154818420736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018656154818420736/pu/img/MwvZ7r_Fop8atlGp.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018656154818420736/pu/vid/avc1/480x270/koCS-jSC0S3kwRp0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018656154818420736/pu/vid/avc1/640x360/uAbcnILOPEJatbau.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018656154818420736/pu/pl/J-15MjcdweK1gpZv.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2018656258694521164",
+        "created_at": "2026-02-03T12:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018657275691618735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018657275691618735",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018656258694521164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这是最后的斗争，\n团结起来到明天，\n英特纳雄耐尔，\n就一定要实现！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018656154818420736"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018656258694521164",
+        "created_at": "2026-02-03T12:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018656258694521164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GMw3SzzaJJ",
+              "end": 102,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018656258694521164/video/1",
+              "media_key": "7_2018656154818420736",
+              "start": 79,
+              "url": "https://t.co/GMw3SzzaJJ"
+            },
+            {
+              "display_url": "x.com/HFLMTF/status/…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/HFLMTF/status/2018381067754029270",
+              "start": 103,
+              "url": "https://t.co/X0Yoo9dENM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018656258694521164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018381067754029270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从来就没有什么救世主，\n也不靠神仙皇帝。\n要创造人类的幸福，全靠我们自己。\n我们要夺回劳动果实，\n让思想冲破牢笼。\n快把那炉火烧得通红\n趁热打铁才能成功…… https://t.co/GMw3SzzaJJ https://t.co/X0Yoo9dENM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/16岁/ 音乐制作/数码科技/作词/喜欢写点小诗歌",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 64,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 103
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 1718,
+          "like_count": 1440,
+          "listed_count": 10,
+          "media_count": 320,
+          "tweet_count": 2007
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

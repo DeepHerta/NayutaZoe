@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1956621510732554424",
+    "created_at": "2025-08-16T07:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T08:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956621510732554424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tang_1019/stat…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/Tang_1019/status/1956428744400502785",
+          "start": 147,
+          "url": "https://t.co/PiHO6MyYDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956621510732554424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956428744400502785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分享一下自己的设备:\n📱一加Ace 3Pro&amp;華為Mate 9Pro\n🎧 水月雨Joker &amp;Redmi Buds 5Pro(垃圾)\n⌚️ Xiaomi Watch S3\n💻 想要......\n🖥️ i5-12400F+RTX2060 6G\n本地AI  Gemma 3 27B https://t.co/PiHO6MyYDo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1956621510732554424",
+        "created_at": "2025-08-16T07:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956621510732554424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tang_1019/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Tang_1019/status/1956428744400502785",
+              "start": 147,
+              "url": "https://t.co/PiHO6MyYDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956621510732554424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956428744400502785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享一下自己的设备:\n📱一加Ace 3Pro&amp;華為Mate 9Pro\n🎧 水月雨Joker &amp;Redmi Buds 5Pro(垃圾)\n⌚️ Xiaomi Watch S3\n💻 想要......\n🖥️ i5-12400F+RTX2060 6G\n本地AI  Gemma 3 27B https://t.co/PiHO6MyYDo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924965014831824896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1956428744400502785",
+        "created_at": "2025-08-15T18:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T19:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956428744400502785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Minokakay/status/1956428200868761811",
+              "start": 57,
+              "url": "https://t.co/ImdLUj4Jrk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956428744400502785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 962,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956428200868761811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分享一下自己的设备:\n📱一加13\n🎧 APP2\n⌚️ AWS10\n💻 华为mate book x pro2024 https://t.co/ImdLUj4Jrk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "MTF/易性症(青春阻斷)/15歲\n喜歡音樂和數碼科技/不澀澀\n抑鬱強迫/會莫名其妙發癲",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayuta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T23:06:47.000Z",
+        "description": "19th.10.2009 Made in PRC/14岁\n可能有点抑郁焦虑躁狂\n我爱大家\n交朋友🚪无，但是考验人品道德三观\n里推:@familyGZTY\n反跨，不接线下\n超偶尔发黄，一般是日常和碎碎念\n老婆是 @zhishi_cook\n狗子是 @wowo_yz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "familyGZTY"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "username": "wowo_yz"
+              }
+            ]
+          }
+        },
+        "id": "1924965014831824896",
+        "location": "猫本",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1953002407438500108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927263457914626048/eyYG0xKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 96,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 2283
+        },
+        "username": "Tang_1019",
+        "verified": true
+      }
+    ]
+  }
+}

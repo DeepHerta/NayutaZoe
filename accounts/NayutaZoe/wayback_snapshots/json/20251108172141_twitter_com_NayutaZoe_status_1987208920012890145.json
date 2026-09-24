@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1986615040024498545",
+    "created_at": "2025-11-08T17:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208920012890145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208920012890145",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986615040024498545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 大佬原来叫什么呀，我怎么感觉认识前辈啊😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_1986615031052836869",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Hf2F9bIAUHzyw.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1986615040024498545",
+        "created_at": "2025-11-08T17:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208920012890145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208920012890145",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986615040024498545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 大佬原来叫什么呀，我怎么感觉认识前辈啊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986615031052836869"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "1986615040024498545",
+        "created_at": "2025-11-07T02:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986615040024498545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dleqmor0Vw",
+              "end": 48,
+              "expanded_url": "https://x.com/RainEngine2024/status/1986615040024498545/photo/1",
+              "media_key": "3_1986615031052836869",
+              "start": 25,
+              "url": "https://t.co/Dleqmor0Vw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986615040024498545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16137,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "曾经酷安拥有8000粉丝，很可惜这个号已经注销了 https://t.co/Dleqmor0Vw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 57,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "07年小朋友/小米合作伙伴/工位主理人/貌似不是学生/爱好拍照记录生活/喜欢折腾数码产品/HRT:2025.09.05/MTX/永远相信美好的事情即将发生",
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "1981534419744936283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980412068239986688/X1qYqr15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 542,
+          "like_count": 23441,
+          "listed_count": 3,
+          "media_count": 603,
+          "tweet_count": 3924
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      }
+    ]
+  }
+}

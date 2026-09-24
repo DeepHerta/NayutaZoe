@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2044697414616150085",
+    "created_at": "2026-04-17T08:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045054124908245239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1540718749053231105",
+          "start": 0,
+          "username": "7S21345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045054124908245239",
+    "in_reply_to_user_id": "1540718749053231105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044697414616150085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7S21345 感觉没什么影响哇🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2044697414616150085",
+        "created_at": "2026-04-17T08:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045054124908245239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1540718749053231105",
+              "start": 0,
+              "username": "7S21345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045054124908245239",
+        "in_reply_to_user_id": "1540718749053231105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044697414616150085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7S21345 感觉没什么影响哇🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540718749053231105",
+        "conversation_id": "2044697414616150085",
+        "created_at": "2026-04-16T08:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044697414616150085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044697414616150085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 739258,
+          "like_count": 1570,
+          "quote_count": 10,
+          "reply_count": 544,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "国内这次对VPN是真的严管了，我一上午都没用上X和TikTok\n\n最近大部分的梯子都卡的不像样，甚至根本打不开\n\n这几天还能上推的都是猛人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症｜跨性别女性｜16岁 170cm 52kg｜坐标长沙，准备去杭州一带  同类可以来贴贴｜音乐制作｜数码科技｜喜欢写点小诗歌｜ \n最好的姐姐😘😘 @NikoRurQwQRuaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "NikoRurQwQRuaa"
+              }
+            ]
+          }
+        },
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "pinned_tweet_id": "2032170405579104358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 74,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 211
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T15:29:21.000Z",
+        "description": "07年大学生勇闯Web3｜希望可以认识更多人",
+        "id": "1540718749053231105",
+        "location": "Los Angeles, CA",
+        "name": "尼奥Neo",
+        "pinned_tweet_id": "2044697414616150085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043552861351739392/vbGdl_Sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 819,
+          "like_count": 867,
+          "listed_count": 6,
+          "media_count": 42,
+          "tweet_count": 654
+        },
+        "username": "7S21345",
+        "verified": true
+      }
+    ]
+  }
+}

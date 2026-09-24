@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "2000270788004655485",
+    "created_at": "2025-12-14T18:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T19:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000273462762611174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000273462762611174",
+    "in_reply_to_user_id": "1956526823128563712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000270788004655485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可很多都是聊完这头聊那头，他们支离破碎的家庭，我一个外人难以掺合。（离异，双亲意外去世，母亲癌症晚期，父亲赌博掏空家底）\n我真的不知道该怎么帮，我的家庭也不富裕，也曾不被家人理解。但看着被家庭，被学校，被社会抛弃的他们，我不忍心当一个旁观者。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2000270788004655485",
+        "created_at": "2025-12-14T18:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T19:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000273462762611174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000273462762611174",
+        "in_reply_to_user_id": "1956526823128563712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000270788004655485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可很多都是聊完这头聊那头，他们支离破碎的家庭，我一个外人难以掺合。（离异，双亲意外去世，母亲癌症晚期，父亲赌博掏空家底）\n我真的不知道该怎么帮，我的家庭也不富裕，也曾不被家人理解。但看着被家庭，被学校，被社会抛弃的他们，我不忍心当一个旁观者。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "2000270788004655485",
+        "created_at": "2025-12-14T18:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T19:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000270788004655485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000270788004655485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累……想帮别人但是心有余而力不足，一天天就这样流逝下去。\n有几位在矫正机构出来的朋友，我努力去帮他们解决生活上和家庭上的困难，可最终还是被逼得厌学不去上学。\n我有尝试过跟他们的父母交流，也取得了他们的信任，并成功帮助解决一个家庭的纠纷以避免再次送入矫正机构。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/16岁/ 音乐制作/数码科技/ OnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 79
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      }
+    ]
+  }
+}

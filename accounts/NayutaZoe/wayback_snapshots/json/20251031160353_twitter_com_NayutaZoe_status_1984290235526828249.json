@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1984173223379153047",
+    "created_at": "2025-10-31T16:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984290235526828249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879338554511495168",
+          "start": 0,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984290235526828249",
+    "in_reply_to_user_id": "1879338554511495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984173223379153047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BAshirasu_1226 现在还有没有渠道啊😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1984173218157166592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kzB4EaAAABikM.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1984173216768913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kzBy5a8AAkkSt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1984173223379153047",
+        "created_at": "2025-10-31T16:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984290235526828249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984290235526828249",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984173223379153047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 现在还有没有渠道啊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984173218157166592",
+            "3_1984173216768913408"
+          ]
+        },
+        "author_id": "1879338554511495168",
+        "conversation_id": "1984173223379153047",
+        "created_at": "2025-10-31T08:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T09:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984173223379153047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nu4my54CVh",
+              "end": 32,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1984173223379153047/photo/1",
+              "media_key": "3_1984173218157166592",
+              "start": 9,
+              "url": "https://t.co/nu4my54CVh"
+            },
+            {
+              "display_url": "pic.x.com/nu4my54CVh",
+              "end": 32,
+              "expanded_url": "https://x.com/BAshirasu_1226/status/1984173223379153047/photo/1",
+              "media_key": "3_1984173216768913408",
+              "start": 9,
+              "url": "https://t.co/nu4my54CVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984173223379153047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1764,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "底力提升针剂🤓👍 https://t.co/nu4my54CVh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 51,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "生产日期2006.5.19|MtX|176cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游人（底力恢复ing）|翻车2024.4.22|自切2025.6.10|闲散人员一只|永远爱@Takina_Jimato（其实是小梓和小特😋）|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/9KfOTjK",
+                "end": 23,
+                "expanded_url": "https://b23.tv/9KfOTjK",
+                "start": 0,
+                "url": "https://t.co/eYxEIozG7D"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978350326135816192/4pxoKG7e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13840,
+          "following_count": 377,
+          "like_count": 1448,
+          "listed_count": 18,
+          "media_count": 247,
+          "tweet_count": 1812
+        },
+        "url": "https://t.co/eYxEIozG7D",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

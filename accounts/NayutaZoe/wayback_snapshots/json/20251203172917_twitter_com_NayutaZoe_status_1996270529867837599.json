@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1996202790272778600",
+    "created_at": "2025-12-03T17:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996270529867837599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996270529867837599",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996202790272778600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 我想想🤔\n\n1.要看笔记是上课写的还是在家回顾写的\n2.要看笔记的内容是看书写的还是凭自己的记忆和理解写的\n3.要看写笔记的作用主要是为了记住字词，还是构建知识框架以梳理\n\n应该吧，毕竟我之前是纯抄，后面渐渐记笔记少了，有了自己的理解和框架就不需要这些东西了，网上有一堆👀👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_1996202782450388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Pv2rOaEAAmsMH.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-03T17:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996270529867837599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996270529867837599",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996202790272778600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 我想想🤔\n\n1.要看笔记是上课写的还是在家回顾写的\n2.要看笔记的内容是看书写的还是凭自己的记忆和理解写的\n3.要看写笔记的作用主要是为了记住字词，还是构建知识框架以梳理\n\n应该吧，毕竟我之前是纯抄，后面渐渐记笔记少了，有了自己的理解和框架就不需要这些东西了，网上有一堆👀👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996202782450388992"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-03T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996202790272778600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tziW7hyV48",
+              "end": 35,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/1996202790272778600/photo/1",
+              "media_key": "3_1996202782450388992",
+              "start": 12,
+              "url": "https://t.co/tziW7hyV48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996202790272778600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 24297,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这种人考试能考几分 https://t.co/tziW7hyV48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症/15岁/\n音乐制作/数码科技/\nOnePlus Ace 3Pro官改维护中/",
+        "id": "1956526823128563712",
+        "location": "光线暗淡之地",
+        "name": "卓娅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "0️⃣｜2008 年韓留｜❤️鏡音レン ｜文案均屬真實   R16❗️",
+        "id": "1804849792121499648",
+        "location": "고려대학교",
+        "name": "阿莫Amoris🇹🇼🏳️‍🌈🇰🇷🇨🇳",
+        "pinned_tweet_id": "1993492458463019226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987930366330761216/H76N-a-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4183,
+          "following_count": 318,
+          "like_count": 24663,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 2744
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

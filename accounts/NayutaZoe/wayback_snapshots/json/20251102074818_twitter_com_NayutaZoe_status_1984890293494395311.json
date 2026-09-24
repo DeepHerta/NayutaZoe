@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1984877729268056155",
+    "created_at": "2025-11-02T07:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984890293494395311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        },
+        {
+          "end": 25,
+          "id": "1661260055914876928",
+          "start": 11,
+          "username": "Kiss_light233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984890293494395311",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984877729268056155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe @Kiss_light233 哇哦~ 是孤独摇滚，是凉前辈☺️☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984877726080385027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4uzxombQAMKuM-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1984877729268056155",
+        "created_at": "2025-11-02T07:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984890293494395311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            },
+            {
+              "end": 25,
+              "id": "1661260055914876928",
+              "start": 11,
+              "username": "Kiss_light233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984890293494395311",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984877729268056155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe @Kiss_light233 哇哦~ 是孤独摇滚，是凉前辈☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984877726080385027"
+          ]
+        },
+        "author_id": "1867432957113204736",
+        "conversation_id": "1984877729268056155",
+        "created_at": "2025-11-02T06:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984877729268056155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661260055914876928",
+              "start": 2,
+              "username": "Kiss_light233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OsmdL0x4o",
+              "end": 108,
+              "expanded_url": "https://x.com/owO123qwe/status/1984877729268056155/photo/1",
+              "media_key": "3_1984877726080385027",
+              "start": 85,
+              "url": "https://t.co/3OsmdL0x4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984877729268056155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@Kiss_light233阳阳姐姐给小然的生日礼物，之前在街上路过的时候，看到说，挺好看的，没想到阳阳姐姐居然还记得，真的好感动，超级开心的！！ヾ(^▽^*))) https://t.co/3OsmdL0x4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的睦头人：@AiYin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "AiYin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1958630429730509283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936541535148871680/sm3pRx9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 574,
+          "like_count": 4532,
+          "listed_count": 6,
+          "media_count": 206,
+          "tweet_count": 1756
+        },
+        "username": "owO123qwe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n—树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lightcafe.top",
+                "end": 23,
+                "expanded_url": "http://www.lightcafe.top/",
+                "start": 0,
+                "url": "https://t.co/YKVh6WxP4P"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "𝑳𝒊𝒈𝒉𝒕🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 356,
+          "like_count": 5275,
+          "listed_count": 4,
+          "media_count": 421,
+          "tweet_count": 4540
+        },
+        "url": "https://t.co/YKVh6WxP4P",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1974806086159859960",
+    "created_at": "2025-10-07T03:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975408033640669409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1278501605734707200",
+          "start": 0,
+          "username": "Qqqqqy8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975408033640669409",
+    "in_reply_to_user_id": "1278501605734707200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974806086159859960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qqqqqy8 我也是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1974806086159859960",
+        "created_at": "2025-10-07T03:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975408033640669409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1278501605734707200",
+              "start": 0,
+              "username": "Qqqqqy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975408033640669409",
+        "in_reply_to_user_id": "1278501605734707200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974806086159859960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qqqqqy8 我也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1278501605734707200",
+        "conversation_id": "1974806086159859960",
+        "created_at": "2025-10-05T11:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T12:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974806086159859960"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 72,
+              "tag": "Telegarm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974806086159859960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下各位大佬 我的telegram 连上vpn就一直“连接中” X可以用Ins也可以  就是telegram 打开是连接中  怎么整啊？🤥🤥🤥#Telegarm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中\nINTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-02T01:31:58.000Z",
+        "description": "我的梦飞向长岛，却死在云霄，融入了大海，在涨潮的时候亲吻你的脚。",
+        "id": "1278501605734707200",
+        "location": "BBW的怀里",
+        "name": "请浇满芝士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774489297791619072/W1Z81CQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 1152,
+          "like_count": 617,
+          "listed_count": 6,
+          "media_count": 8,
+          "tweet_count": 26
+        },
+        "username": "Qqqqqy8",
+        "verified": false
+      }
+    ]
+  }
+}

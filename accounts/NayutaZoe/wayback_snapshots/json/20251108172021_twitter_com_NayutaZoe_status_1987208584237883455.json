@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1986294790108160130",
+    "created_at": "2025-11-08T17:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208584237883455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684406308332785665",
+          "start": 0,
+          "username": "WandererFly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208584237883455",
+    "in_reply_to_user_id": "1684406308332785665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986294790108160130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WandererFly 显示器太高了，调低可以挡住线，另外插板别弄满了，加一个插座在桌子侧面，桌子边加上可以扣线的东西方便充电。显示器调低后可以加挡板或者装饰削弱几个接线的存在感。主机可以放在桌子下面，如果桌子后面有镂空的地方放最好。啊啊啊啊喵，还是我亲自来帮你理吧😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1986294736886636547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5C8ihNbIAMfMZj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1986294790108160130",
+        "created_at": "2025-11-08T17:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208584237883455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684406308332785665",
+              "start": 0,
+              "username": "WandererFly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208584237883455",
+        "in_reply_to_user_id": "1684406308332785665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986294790108160130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WandererFly 显示器太高了，调低可以挡住线，另外插板别弄满了，加一个插座在桌子侧面，桌子边加上可以扣线的东西方便充电。显示器调低后可以加挡板或者装饰削弱几个接线的存在感。主机可以放在桌子下面，如果桌子后面有镂空的地方放最好。啊啊啊啊喵，还是我亲自来帮你理吧😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986294736886636547"
+          ]
+        },
+        "author_id": "1684406308332785665",
+        "conversation_id": "1986294790108160130",
+        "created_at": "2025-11-06T04:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986294790108160130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Ny9gqFyyC",
+              "end": 38,
+              "expanded_url": "https://x.com/WandererFly/status/1986294790108160130/photo/1",
+              "media_key": "3_1986294736886636547",
+              "start": 15,
+              "url": "https://t.co/9Ny9gqFyyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986294790108160130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 53495,
+          "like_count": 275,
+          "quote_count": 1,
+          "reply_count": 99,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能实现桌面无线化🥺🥺🥺 https://t.co/9Ny9gqFyyC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 57,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T03:32:25.000Z",
+        "description": "散厨/校服控 可以面基 和平派政治中立\n这个世界灿烂盛大！🥳🥳🥳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xym.one",
+                "end": 23,
+                "expanded_url": "http://xym.one",
+                "start": 0,
+                "url": "https://t.co/726DTxKt0C"
+              }
+            ]
+          }
+        },
+        "id": "1684406308332785665",
+        "location": "济南",
+        "name": "蹦蹦小圆帽",
+        "pinned_tweet_id": "1977249936816439410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778320966025957376/IZ7WHCeS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 1133,
+          "like_count": 6143,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 4294
+        },
+        "url": "https://t.co/726DTxKt0C",
+        "username": "WandererFly",
+        "verified": false
+      }
+    ]
+  }
+}

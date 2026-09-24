@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1956526823128563712",
+    "conversation_id": "1984189714753282280",
+    "created_at": "2025-10-31T15:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984279005332373791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1490546772669698051",
+          "start": 0,
+          "username": "NikoRurQwQRuaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984279005332373791",
+    "in_reply_to_user_id": "1490546772669698051",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984189714753282280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikoRurQwQRuaa 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_1984189712425517056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4lCB-AbgAAnN7d.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956526823128563712",
+        "conversation_id": "1984189714753282280",
+        "created_at": "2025-10-31T15:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984279005332373791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1490546772669698051",
+              "start": 0,
+              "username": "NikoRurQwQRuaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984279005332373791",
+        "in_reply_to_user_id": "1490546772669698051",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984189714753282280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikoRurQwQRuaa 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984189712425517056"
+          ]
+        },
+        "author_id": "1490546772669698051",
+        "conversation_id": "1984189714753282280",
+        "created_at": "2025-10-31T09:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984189714753282280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWun8vANiC",
+              "end": 27,
+              "expanded_url": "https://x.com/NikoRurQwQRuaa/status/1984189714753282280/photo/1",
+              "media_key": "3_1984189712425517056",
+              "start": 4,
+              "url": "https://t.co/jWun8vANiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984189714753282280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/jWun8vANiC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-16T01:22:14.000Z",
+        "description": "易性症(青春阻斷)/今年15≡ω≡/\n喜歡音樂和數碼科技/抑郁强迫，吃药中/INTP/",
+        "id": "1956526823128563712",
+        "location": "Changsha",
+        "name": "Nayumio那由澪🍥",
+        "pinned_tweet_id": "1975555992512569824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956526884961107968/rzvMpevs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 51,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "NayutaZoe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:43:43.000Z",
+        "description": "🇨🇳16岁/09.1.26，男孩子哦awa（音游人/Minecraft/玩机/刷机/摄影/HyperOS Port ROMer/Xiaomi Device GKI Kernel Developer/b站不知名up主/摆烂/友跨/不建政）",
+        "id": "1490546772669698051",
+        "location": "Nikoの奇妙小窝",
+        "name": "NikoRur_QwQRuaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1490547423428890624/8vY2TkQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 149,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 425
+        },
+        "username": "NikoRurQwQRuaa",
+        "verified": false
+      }
+    ]
+  }
+}
